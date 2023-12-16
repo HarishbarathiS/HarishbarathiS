@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in building ML | DL web apps
+Exploring tech!
 
 
 ## 🌐 Socials:
