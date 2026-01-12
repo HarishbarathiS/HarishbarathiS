@@ -1,4 +1,4 @@
-# Hi, I'm Harish 👋
+# Hi, I'm Harish Barathi👋
 
 I’m an Engineer who enjoys building reliable, scalable, and thoughtfully designed software.  
 I have a strong interest in **infrastructure, backend systems, and distributed architectures**, and I focus on solving real problems while continuously learning new technologies.
