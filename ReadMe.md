@@ -66,19 +66,6 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarishbarathiS&show_icons=true&hide_title=true&hide_border=true&theme=transparent&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarishbarathiS&hide_border=true&theme=transparent&cache_seconds=1800" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishbarathiS&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800" height="150" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** [harishbarathisivasubramanian](https://linkedin.com/in/harishbarathisivasubramanian)
