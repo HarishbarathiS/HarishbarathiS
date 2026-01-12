@@ -51,8 +51,6 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ## 📌 Principles I Follow
 
-- Clean, readable, and maintainable code
-- Security and performance by default
 - Simple solutions over complex ones
 - Learning by building
 
