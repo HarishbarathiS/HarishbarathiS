@@ -49,7 +49,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 📌 Principles I Follow
+## Principles I Follow
 
 - Simple solutions over complex ones
 - Learning by building
