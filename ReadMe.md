@@ -7,7 +7,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ## 🚀 What I Do
 
-- Build full-stack web applications with production-grade architecture
+- Build full-stack applications with production-grade architecture
 - Design, deploy, and maintain backend and infrastructure systems
 - Work with cloud platforms, networking, and DevOps workflows
 - Explore AI, ML, and automation to improve system reliability and developer efficiency
@@ -58,7 +58,6 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ## 📊 Current Focus
 
-- Building **HealthPilot.ai**
 - Building **SplitEase**
 - Deepening expertise in **infrastructure and system design**
 
@@ -67,8 +66,8 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** [harishbarathisivasubramanian](https://linkedin.com/in/harishbarathisivasubramanian)
-- **Email:** [iharishbarathis@gmail.com](mailto:iharishbarathis@gmail.com)
-- **Website:** [harishbs.in](https://harishbs.in)
+- **Email:** [harishbarathi.work@gmail.com](mailto:harishbarathi.work@gmail.com)
+- **Website:** [harishbarathi.in](https://harishbarathi.in)
 
 
 ---
