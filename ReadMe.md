@@ -58,7 +58,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ## 📊 Current Focus
 
-- Building **SplitEase**
+- Building **SplitOne**
 - Deepening expertise in **infrastructure and system design**
 
 ---
