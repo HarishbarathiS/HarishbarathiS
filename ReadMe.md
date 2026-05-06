@@ -5,7 +5,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build full-stack applications with production-grade architecture
 - Design, deploy, and maintain backend and infrastructure systems
@@ -14,7 +14,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 - JavaScript / TypeScript
@@ -39,7 +39,7 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 🧱 Infrastructure & Systems Interests
+## Infrastructure & Systems Interests
 
 - Cloud infrastructure and platform engineering
 - Distributed systems and scalability
@@ -56,14 +56,14 @@ I have a strong interest in **infrastructure, backend systems, and distributed a
 
 ---
 
-## 📊 Current Focus
+## Current Focus
 
 - Building **SplitOne**
 - Deepening expertise in **infrastructure and system design**
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - **LinkedIn:** [harishbarathisivasubramanian](https://linkedin.com/in/harishbarathisivasubramanian)
 - **Email:** [harishbarathi.work@gmail.com](mailto:harishbarathi.work@gmail.com)
