@@ -1,5 +1,4 @@
-## I like CS, I build software for my own use
-
+## I like CS, I build software for my own use, I work below the OS (UEFI) at my day job and I am learning more about it
 
 
 ## Let’s Connect
